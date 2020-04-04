@@ -1,0 +1,6 @@
+{
+    "name":"libin/sundry",
+    "require": {
+        "monolog/monolog": "1.2.*"
+    }
+}
